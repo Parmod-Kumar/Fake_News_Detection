@@ -1,2 +1,2 @@
-# Fake_News_Dedection
-Fake News Dedection
+# Fake_News_Detection
+Fake News Detection
